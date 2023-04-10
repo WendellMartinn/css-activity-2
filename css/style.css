@@ -68,3 +68,31 @@
     text-decoration: none;
     color: black;
 }
+#services{
+
+    background-color: whitesmoke;
+    padding-top: 5%;
+    margin-left: -10px;
+    margin-left: -10px;
+    padding-bottom: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#services h2{
+    font-size: 35px;
+    margin-bottom: 5%;
+}
+
+#services li{
+    list-style: none;
+    display: inline;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: white;
+    margin-left: 2%;
+}
+#services li:hover{
+    cursor: pointer;
+    background-color: aqua;
+}
